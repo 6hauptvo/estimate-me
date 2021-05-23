@@ -23,7 +23,7 @@ yarn server:dev
 ### Starts server for production
 
 ```
-yarn server:start
+yarn server:prod
 ```
 
 ### Getting started developing
